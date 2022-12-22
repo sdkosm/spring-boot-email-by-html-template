@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootEmailFreemarkerApplication<spring-boot-email-freemarker>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.javatechie.email.api.SpringBootEmailFreemarkerApplication",
+            "projectName": "spring-boot-email-freemarker",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
